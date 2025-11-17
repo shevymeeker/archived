@@ -640,7 +640,7 @@ export default function MortgageAnalyzer() {
             <li>Actual monthly payments include property taxes, insurance, and PMI (required for down payments below 20%)</li>
             <li>Scenario 7 uses 3.5% down payment instead of the standard {downPaymentPercent}%</li>
             <li>Accelerated scenarios show the effect of making higher payments on longer-term loans</li>
-            <li>Interest rates and terms are based on your original analysis document</li>
+        
           </ul>
         </div>
       </div>
